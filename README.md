@@ -1,5 +1,6 @@
 # Real-Time-Traffic-Signal-Detection-System--Problem-statement-in-Hackathon-
 # 🚦 Traffic Signal Detector
+# demo video of how it works present at the end!
 
 A real-time traffic signal color detection system using computer vision.
 This project detects **Red, Yellow, and Green signals** from a live camera feed.
@@ -137,3 +138,7 @@ Open for improvements and suggestions!
 ## ⭐ Note
 
 This is a prototype built under time constraints during a hackathon.
+
+## 🎥 Demo Video
+
+[▶️ Watch Demo](https://drive.google.com/file/d/1GaQT75NqQGriwOvlgjTuJcqZk6vbqpou/view?usp=drivesdk)
