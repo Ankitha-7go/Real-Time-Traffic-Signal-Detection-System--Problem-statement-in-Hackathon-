@@ -141,4 +141,4 @@ This is a prototype built under time constraints during a hackathon.
 
 ## 🎥 Demo Video
 
-[▶️ Watch Demo](https://drive.google.com/file/d/1GaQT75NqQGriwOvlgjTuJcqZk6vbqpou/view?usp=drivesdk)
+[▶️ Watch Demo](https://youtu.be/gAHEoLYZKyA?si=S8YA_i2KD0IHdYQb)
