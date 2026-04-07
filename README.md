@@ -100,15 +100,10 @@ http://YOUR-IP:5000
 
 ---
 
-## 📸 Demo
-
-(Add screenshots here)
-
----
-
 ## 🎥 Demo Video
 
-(Add video link here)
+(https://youtu.be/gAHEoLYZKyA?si=S8YA_i2KD0IHdYQb)
+
 
 ---
 
@@ -138,7 +133,3 @@ Open for improvements and suggestions!
 ## ⭐ Note
 
 This is a prototype built under time constraints during a hackathon.
-
-## 🎥 Demo Video
-
-[▶️ Watch Demo](https://youtu.be/gAHEoLYZKyA?si=S8YA_i2KD0IHdYQb)
